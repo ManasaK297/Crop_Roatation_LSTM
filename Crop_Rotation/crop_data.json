@@ -1,0 +1,1572 @@
+{
+    "Rice": {
+        "family": "Poaceae",
+        "planting_months": [
+            5,
+            6,
+            7
+        ],
+        "grow_duration": 4,
+        "successor_crops": [
+            "Green Gram",
+            "Black Gram",
+            "Cowpea",
+            "Pulses",
+            "Wheat",
+            "Mustard",
+            "Chickpea"
+        ],
+        "soil_type": ["Clayey", "Loamy", "Alluvial"],
+        "water_requirement": 2,
+        "nutrient_group": 0,
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/20201102.Hengnan.Hybrid_rice_Sanyou-1.6.jpg/500px-20201102.Hengnan.Hybrid_rice_Sanyou-1.6.jpg",
+        "successors": {
+            "Green Gram": {
+                "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Mung_beans_%28Vigna_radiata%29.jpg/500px-Mung_beans_%28Vigna_radiata%29.jpg"
+            },
+            "Black Gram": {
+                "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Black_gram.jpg/500px-Black_gram.jpg"
+            },
+            "Cowpea": {
+                "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Lobia.jpg/500px-Lobia.jpg"
+            },
+            "Pulses": {
+                "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Various_legumes.jpg/500px-Various_legumes.jpg"
+            },
+            "Wheat": {
+                "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Vehn%C3%A4pelto_6.jpg/500px-Vehn%C3%A4pelto_6.jpg"
+            },
+            "Mustard": {
+                "image_url": "https://as1.ftcdn.net/v2/jpg/04/36/98/96/1000_F_436989686_PPLp8Vo0atNIyD8rvtm8hN3y4R9YBvvQ.jpg"
+            },
+            "Chickpea": {
+                "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Chickpea_BNC.jpg/500px-Chickpea_BNC.jpg"
+            }
+        }
+    },
+    "Wheat": {
+        "family": "Poaceae",
+        "planting_months": [
+            11,
+            12
+        ],
+        "grow_duration": 5,
+        "successor_crops": [
+            "Moong",
+            "Rice",
+            "Sesame",
+            "Millet"
+        ],
+        "soil_type": ["Loamy", "Clay loam", "Alluvial"],
+        "water_requirement": 1,
+        "nutrient_group": 0,
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Vehn%C3%A4pelto_6.jpg/500px-Vehn%C3%A4pelto_6.jpg",
+        "successors": {
+            "Moong": {
+                "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Mung_beans_%28Vigna_radiata%29.jpg/500px-Mung_beans_%28Vigna_radiata%29.jpg"
+            },
+            "Rice": {
+                "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/20201102.Hengnan.Hybrid_rice_Sanyou-1.6.jpg/500px-20201102.Hengnan.Hybrid_rice_Sanyou-1.6.jpg"
+            },
+            "Sesame": {
+                "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Sesamum_indicum_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-129.jpg"
+            },
+            "Millet": {
+                "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Grain_millet%2C_early_grain_fill%2C_Tifton%2C_7-3-02.jpg/500px-Grain_millet%2C_early_grain_fill%2C_Tifton%2C_7-3-02.jpg"
+            }
+        }
+    },
+    "Maize": {
+        "family": "Poaceae",
+        "planting_months": [
+            6,
+            7
+        ],
+        "grow_duration": 3,
+        "successor_crops": [
+            "Chickpea",
+            "Legumes",
+            "Mustard",
+            "Peas",
+            "Lentil"
+        ],
+        "soil_type": ["Loamy", "Alluvial", "Red"],
+        "water_requirement": 1,
+        "nutrient_group": 2,
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Zea_mays_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-283.jpg",
+        "successors": {
+            "Chickpea": {
+                "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Chickpea_BNC.jpg/500px-Chickpea_BNC.jpg"
+            },
+            "Legumes": {
+                "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Various_legumes.jpg/500px-Various_legumes.jpg"
+            },
+            "Mustard": {
+                "image_url": "https://as1.ftcdn.net/v2/jpg/04/36/98/96/1000_F_436989686_PPLp8Vo0atNIyD8rvtm8hN3y4R9YBvvQ.jpg"
+            },
+            "Peas": {
+                "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Peas_in_pods_-_Studio.jpg/500px-Peas_in_pods_-_Studio.jpg"
+            },
+            "Lentil": {
+                "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/3_types_of_lentil.png/500px-3_types_of_lentil.png"
+            }
+        }
+    },
+    "Ragi": {
+        "family": "Poaceae",
+        "planting_months": [
+            6,
+            7
+        ],
+        "grow_duration": 4,
+        "successor_crops": [
+            "Legumes",
+            "Horse Gram",
+            "Chickpea",
+            "Linseed",
+            "Wheat",
+            "Black Gram",
+            "Groundnut",
+            "Soybean"
+        ],
+        "soil_type": ["Red", "Loamy", "Lateritic"],
+        "water_requirement": 0,
+        "nutrient_group": 1,
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsnhyetL39slcg7SnvNY29cOkQUu6VmCBXiA&s",
+        "successors": {
+            "Legumes": {
+                "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Various_legumes.jpg/500px-Various_legumes.jpg"
+            },
+            "Horse Gram": {
+                "image_url": "https://i2.wp.com/vaerorganic.com/wp-content/uploads/2020/09/horse-gram-1-scaled.jpg?fit=2560%2C2560&ssl=1"
+            },
+            "Chickpea": {
+                "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Chickpea_BNC.jpg/500px-Chickpea_BNC.jpg"
+            },
+            "Linseed": {
+                "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/K%C3%B6hler%27s_Medizinal-Pflanzen_in_naturgetreuen_Abbildungen_mit_kurz_erl%C3%A4uterndem_Texte_%28Plate_16%29_BHL303594.jpg/500px-K%C3%B6hler%27s_Medizinal-Pflanzen_in_naturgetreuen_Abbildungen_mit_kurz_erl%C3%A4uterndem_Texte_%28Plate_16%29_BHL303594.jpg"
+            },
+            "Wheat": {
+                "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Vehn%C3%A4pelto_6.jpg/500px-Vehn%C3%A4pelto_6.jpg"
+            },
+            "Black Gram": {
+                "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Black_gram.jpg/500px-Black_gram.jpg"
+            },
+            "Groundnut": {
+                "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRp-ZtVrTDlDV5Ookt10HHxZqqz972ByFKxvw&s"
+            },
+            "Soybean": {
+                "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Soybean.USDA.jpg/500px-Soybean.USDA.jpg"
+            }
+        }
+    },
+    "Barley": {
+        "family": "Poaceae",
+        "planting_months": [
+            10,
+            11
+        ],
+        "grow_duration": 4,
+        "successor_crops": [
+            "Moong",
+            "Lentil",
+            "Mustard",
+            "Legumes"
+        ],
+        "soil_type": ["Sandy loam", "Loamy"],
+        "water_requirement": 0,
+        "nutrient_group": 0,
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Barley_%28Hordeum_vulgare%29_-_United_States_National_Arboretum_-_24_May_2009.jpg/500px-Barley_%28Hordeum_vulgare%29_-_United_States_National_Arboretum_-_24_May_2009.jpg",
+        "successors": {
+            "Moong": {
+                "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Mung_beans_%28Vigna_radiata%29.jpg/500px-Mung_beans_%28Vigna_radiata%29.jpg"
+            },
+            "Lentil": {
+                "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/3_types_of_lentil.png/500px-3_types_of_lentil.png"
+            },
+            "Mustard": {
+                "image_url": "https://as1.ftcdn.net/v2/jpg/04/36/98/96/1000_F_436989686_PPLp8Vo0atNIyD8rvtm8hN3y4R9YBvvQ.jpg"
+            },
+            "Legumes": {
+                "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Various_legumes.jpg/500px-Various_legumes.jpg"
+            }
+        }
+    },
+    "Sorghum": {
+        "family": "Poaceae",
+        "planting_months": [
+            6,
+            7
+        ],
+        "grow_duration": 3,
+        "successor_crops": [
+            "Chickpea",
+            "Cowpea",
+            "Red Gram",
+            "Black Gram"
+        ],
+        "soil_type": ["Black", "Loamy", "Sandy loam"],
+        "water_requirement": 1,
+        "nutrient_group": 2,
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Sorghum_bicolor03.jpg/500px-Sorghum_bicolor03.jpg",
+        "successors": {
+            "Chickpea": {
+                "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Chickpea_BNC.jpg/500px-Chickpea_BNC.jpg"
+            },
+            "Cowpea": {
+                "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Lobia.jpg/500px-Lobia.jpg"
+            },
+            "Red Gram": {
+                "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6kiecpeTDyxaAypnvlqAApj1lTF_dg2Ho2w&s"
+            },
+            "Black Gram": {
+                "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Black_gram.jpg/500px-Black_gram.jpg"
+            }
+        }
+    },
+    "Bajra": {
+        "family": "Poaceae",
+        "planting_months": [
+            6,
+            7
+        ],
+        "grow_duration": 3,
+        "successor_crops": [
+            "Pigeon Pea",
+            "Sunflower",
+            "Soybean",
+            "Cowpea"
+        ],
+        "soil_type": ["Sandy loam", "Light black", "Red"],
+        "water_requirement": 0,
+        "nutrient_group": 2,
+        "image_url": "https://matratva.com/cdn/shop/articles/bajra.jpg?v=1627448817",
+        "successors": {
+            "Pigeon Pea": {
+                "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV6S_wkfQe2jF5a524eebIxgOgzfEMU5ZEmA&s"
+            },
+            "Sunflower": {
+                "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Sunflower_sky_backdrop.jpg/500px-Sunflower_sky_backdrop.jpg"
+            },
+            "Soybean": {
+                "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Soybean.USDA.jpg/500px-Soybean.USDA.jpg"
+            },
+            "Cowpea": {
+                "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Lobia.jpg/500px-Lobia.jpg"
+            }
+        }
+    },
+    "Moong": {
+        "family": "Fabaceae",
+        "planting_months": [
+            5,
+            6,
+            7
+        ],
+        "grow_duration": 2,
+        "successor_crops": [
+            "Wheat",
+            "Mustard",
+            "Rice"
+        ],
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Mung_beans_%28Vigna_radiata%29.jpg/500px-Mung_beans_%28Vigna_radiata%29.jpg",
+        "successors": {
+            "Wheat": {
+                "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Vehn%C3%A4pelto_6.jpg/500px-Vehn%C3%A4pelto_6.jpg"
+            },
+            "Mustard": {
+                "image_url": "https://as1.ftcdn.net/v2/jpg/04/36/98/96/1000_F_436989686_PPLp8Vo0atNIyD8rvtm8hN3y4R9YBvvQ.jpg"
+            },
+            "Rice": {
+                "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/20201102.Hengnan.Hybrid_rice_Sanyou-1.6.jpg/500px-20201102.Hengnan.Hybrid_rice_Sanyou-1.6.jpg"
+            }
+        }
+    },
+    "Urad": {
+        "family": "Fabaceae",
+        "planting_months": [
+            6,
+            7
+        ],
+        "grow_duration": 2,
+        "successor_crops": [
+            "Wheat",
+            "Chickpea",
+            "Barley",
+            "Mustard",
+            "Rice"
+        ],
+        "soil_type": ["Black", "Loamy"],
+        "water_requirement": 0,
+        "nutrient_group": 0,
+        "image_url": "https://5.imimg.com/data5/IU/VJ/MY-34614351/white-urad-dal-500x500.jpg",
+        "successors": {
+            "Wheat": {
+                "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Vehn%C3%A4pelto_6.jpg/500px-Vehn%C3%A4pelto_6.jpg"
+            },
+            "Chickpea": {
+                "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Chickpea_BNC.jpg/500px-Chickpea_BNC.jpg"
+            },
+            "Barley": {
+                "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Barley_%28Hordeum_vulgare%29_-_United_States_National_Arboretum_-_24_May_2009.jpg/500px-Barley_%28Hordeum_vulgare%29_-_United_States_National_Arboretum_-_24_May_2009.jpg"
+            },
+            "Mustard": {
+                "image_url": "https://as1.ftcdn.net/v2/jpg/04/36/98/96/1000_F_436989686_PPLp8Vo0atNIyD8rvtm8hN3y4R9YBvvQ.jpg"
+            },
+            "Rice": {
+                "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/20201102.Hengnan.Hybrid_rice_Sanyou-1.6.jpg/500px-20201102.Hengnan.Hybrid_rice_Sanyou-1.6.jpg"
+            }
+        }
+    },
+    "Masoor": {
+        "family": "Fabaceae",
+        "planting_months": [
+            11,
+            12
+        ],
+        "grow_duration": 3,
+        "successor_crops": [
+            "Maize",
+            "Millet",
+            "Sesame",
+            "Paddy",
+            "Cotton",
+            "Bajra"
+        ],
+        "soil_type": ["Loamy", "Alluvial"],
+        "water_requirement": 0,
+        "nutrient_group": 1,
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/3_types_of_lentil.png/500px-3_types_of_lentil.png",
+        "successors": {
+            "Maize": {
+                "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Zea_mays_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-283.jpg"
+            },
+            "Millet": {
+                "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Grain_millet%2C_early_grain_fill%2C_Tifton%2C_7-3-02.jpg/500px-Grain_millet%2C_early_grain_fill%2C_Tifton%2C_7-3-02.jpg"
+            },
+            "Sesame": {
+                "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Sesamum_indicum_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-129.jpg"
+            },
+            "Paddy": {
+                "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsxOoADUg8af0rbRtXQfM8UrfpgSdPJhQdsw&s"
+            },
+            "Cotton": {
+                "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/CottonPlant.JPG/500px-CottonPlant.JPG"
+            },
+            "Bajra": {
+                "image_url": "https://matratva.com/cdn/shop/articles/bajra.jpg?v=1627448817"
+            }
+        }
+    },
+    "Chickpea": {
+        "family": "Fabaceae",
+        "planting_months": [
+            10,
+            11
+        ],
+        "grow_duration": 4,
+        "successor_crops": [
+            "Maize",
+            "Jowar",
+            "Sorghum"
+        ],
+        "soil_type": ["Loamy", "Sandy loam", "Black"],
+        "water_requirement": 0,
+        "nutrient_group": 1,
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Chickpea_BNC.jpg/500px-Chickpea_BNC.jpg",
+        "successors": {
+            "Maize": {
+                "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Zea_mays_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-283.jpg"
+            },
+            "Jowar": {
+                "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Sorghum_bicolor03.jpg/500px-Sorghum_bicolor03.jpg"
+            },
+            "Sorghum": {
+                "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Sorghum_bicolor03.jpg/500px-Sorghum_bicolor03.jpg"
+            }
+        }
+    },
+    "Lentil": {
+        "family": "Fabaceae",
+        "planting_months": [
+            10,
+            11
+        ],
+        "grow_duration": 4,
+        "successor_crops": [
+            "Maize",
+            "Millet",
+            "Peas",
+            "Rice",
+            "Pulses"
+        ],
+        "soil_type": ["Loamy", "Alluvial"],
+        "water_requirement": 0,
+        "nutrient_group": 1,
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/3_types_of_lentil.png/500px-3_types_of_lentil.png",
+        "successors": {
+            "Maize": {
+                "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Zea_mays_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-283.jpg"
+            },
+            "Millet": {
+                "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Grain_millet%2C_early_grain_fill%2C_Tifton%2C_7-3-02.jpg/500px-Grain_millet%2C_early_grain_fill%2C_Tifton%2C_7-3-02.jpg"
+            },
+            "Peas": {
+                "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Peas_in_pods_-_Studio.jpg/500px-Peas_in_pods_-_Studio.jpg"
+            },
+            "Rice": {
+                "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/20201102.Hengnan.Hybrid_rice_Sanyou-1.6.jpg/500px-20201102.Hengnan.Hybrid_rice_Sanyou-1.6.jpg"
+            },
+            "Pulses": {
+                "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Various_legumes.jpg/500px-Various_legumes.jpg"
+            }
+        }
+    },
+    "Groundnut": {
+        "family": "Fabaceae",
+        "planting_months": [
+            5,
+            6
+        ],
+        "grow_duration": 5,
+        "successor_crops": [
+            "Cotton",
+            "Sorghum",
+            "Maize"
+        ],
+        "soil_type": ["Sandy loam", "Red", "Black"],
+        "water_requirement": 1,
+        "nutrient_group": 2,
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRp-ZtVrTDlDV5Ookt10HHxZqqz972ByFKxvw&s",
+        "successors": {
+            "Cotton": {
+                "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/CottonPlant.JPG/500px-CottonPlant.JPG"
+            },
+            "Sorghum": {
+                "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Sorghum_bicolor03.jpg/500px-Sorghum_bicolor03.jpg"
+            },
+            "Maize": {
+                "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Zea_mays_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-283.jpg"
+            }
+        }
+    },
+    "Soybean": {
+        "family": "Fabaceae",
+        "planting_months": [
+            6,
+            7
+        ],
+        "grow_duration": 3,
+        "successor_crops": [
+            "Wheat",
+            "Barley",
+            "Chickpea"
+        ],
+        "soil_type": ["Black", "Loamy"],
+        "water_requirement": 1,
+        "nutrient_group": 2,
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Soybean.USDA.jpg/500px-Soybean.USDA.jpg",
+        "successors": {
+            "Wheat": {
+                "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Vehn%C3%A4pelto_6.jpg/500px-Vehn%C3%A4pelto_6.jpg"
+            },
+            "Barley": {
+                "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Barley_%28Hordeum_vulgare%29_-_United_States_National_Arboretum_-_24_May_2009.jpg/500px-Barley_%28Hordeum_vulgare%29_-_United_States_National_Arboretum_-_24_May_2009.jpg"
+            },
+            "Chickpea": {
+                "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Chickpea_BNC.jpg/500px-Chickpea_BNC.jpg"
+            }
+        }
+    },
+    "Mustard": {
+        "family": "Brassicaceae",
+        "planting_months": [
+            10,
+            11
+        ],
+        "grow_duration": 3,
+        "successor_crops": [
+            "Moong",
+            "Maize",
+            "Peas"
+        ],
+        "soil_type": ["Loamy", "Alluvial"],
+        "water_requirement": 0,
+        "nutrient_group": 1,
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2lojqQG84sw3kGSUWlw8nzgv7dKnQHAzw2g&s",
+        "successors": {
+            "Moong": {
+                "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Mung_beans_%28Vigna_radiata%29.jpg/500px-Mung_beans_%28Vigna_radiata%29.jpg"
+            },
+            "Maize": {
+                "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Zea_mays_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-283.jpg"
+            },
+            "Peas": {
+                "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Peas_in_pods_-_Studio.jpg/500px-Peas_in_pods_-_Studio.jpg"
+            }
+        }
+    },
+    "Linseed": {
+        "family": "Linaceae",
+        "planting_months": [
+            10,
+            11
+        ],
+        "grow_duration": 4,
+        "successor_crops": [
+            "Maize",
+            "Moong",
+            "Sesame"
+        ],
+        "soil_type": ["Loamy", "Sandy loam"],
+        "water_requirement": 0,
+        "nutrient_group": 1,
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/K%C3%B6hler%27s_Medizinal-Pflanzen_in_naturgetreuen_Abbildungen_mit_kurz_erl%C3%A4uterndem_Texte_%28Plate_16%29_BHL303594.jpg/500px-K%C3%B6hler%27s_Medizinal-Pflanzen_in_naturgetreuen_Abbildungen_mit_kurz_erl%C3%A4uterndem_Texte_%28Plate_16%29_BHL303594.jpg",
+        "successors": {
+            "Maize": {
+                "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Zea_mays_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-283.jpg"
+            },
+            "Moong": {
+                "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Mung_beans_%28Vigna_radiata%29.jpg/500px-Mung_beans_%28Vigna_radiata%29.jpg"
+            },
+            "Sesame": {
+                "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Sesamum_indicum_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-129.jpg"
+            }
+        }
+    },
+    "Sesame": {
+        "family": "Pedaliaceae",
+        "planting_months": [
+            6,
+            7
+        ],
+        "grow_duration": 3,
+        "successor_crops": [
+            "Wheat",
+            "Barley",
+            "Chickpea"
+        ],
+        "soil_type": ["Sandy loam", "Red", "Black"],
+        "water_requirement": 0,
+        "nutrient_group": 2,
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Sesamum_indicum_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-129.jpg",
+        "successors": {
+            "Wheat": {
+                "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Vehn%C3%A4pelto_6.jpg/500px-Vehn%C3%A4pelto_6.jpg"
+            },
+            "Barley": {
+                "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Barley_%28Hordeum_vulgare%29_-_United_States_National_Arboretum_-_24_May_2009.jpg/500px-Barley_%28Hordeum_vulgare%29_-_United_States_National_Arboretum_-_24_May_2009.jpg"
+            },
+            "Chickpea": {
+                "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Chickpea_BNC.jpg/500px-Chickpea_BNC.jpg"
+            }
+        }
+    },
+    "Cotton": {
+        "family": "Malvaceae",
+        "planting_months": [
+            6,
+            7
+        ],
+        "grow_duration": 5,
+        "successor_crops": [
+            "Wheat",
+            "Mustard",
+            "Peas"
+        ],
+        "soil_type": ["Black", "Loamy"],
+        "water_requirement": 1,
+        "nutrient_group": 2,
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/CottonPlant.JPG/500px-CottonPlant.JPG",
+        "successors": {
+            "Wheat": {
+                "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Vehn%C3%A4pelto_6.jpg/500px-Vehn%C3%A4pelto_6.jpg"
+            },
+            "Mustard": {
+                "image_url": "https://as1.ftcdn.net/v2/jpg/04/36/98/96/1000_F_436989686_PPLp8Vo0atNIyD8rvtm8hN3y4R9YBvvQ.jpg"
+            },
+            "Peas": {
+                "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Peas_in_pods_-_Studio.jpg/500px-Peas_in_pods_-_Studio.jpg"
+            }
+        }
+    },
+    "Sugarcane": {
+        "family": "Poaceae",
+        "planting_months": [
+            5,
+            6,
+            10,
+            11
+        ],
+        "grow_duration": 10,
+        "successor_crops": [
+            "Pulses",
+            "Oilseeds",
+            "Cotton",
+            "Maize",
+            "Rice"
+        ],
+        "soil_type": ["Loamy", "Alluvial", "Black"],
+        "water_requirement": 2,
+        "nutrient_group": 2,
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Saccharum_officinarum_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-125.jpg",
+        "successors": {
+            "Pulses": {
+                "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Various_legumes.jpg/500px-Various_legumes.jpg"
+            },
+            "Oilseeds": {
+                "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Olive_oil_from_Oneglia.jpg/500px-Olive_oil_from_Oneglia.jpg"
+            },
+            "Cotton": {
+                "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/CottonPlant.JPG/500px-CottonPlant.JPG"
+            },
+            "Maize": {
+                "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Zea_mays_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-283.jpg"
+            },
+            "Rice": {
+                "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/20201102.Hengnan.Hybrid_rice_Sanyou-1.6.jpg/500px-20201102.Hengnan.Hybrid_rice_Sanyou-1.6.jpg"
+            }
+        }
+    },
+    "Jute": {
+        "family": "Malvaceae",
+        "planting_months": [
+            3,
+            4
+        ],
+        "grow_duration": 4,
+        "successor_crops": [
+            "Paddy",
+            "Sesame"
+        ],
+        "soil_type": ["Alluvial", "Loamy"],
+        "water_requirement": 2,
+        "nutrient_group": 1,
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Jute_-_Kolkata_2003-10-31_00538.JPG/500px-Jute_-_Kolkata_2003-10-31_00538.JPG",
+        "successors": {
+            "Paddy": {
+                "image_url": "https://media.istockphoto.com/id/1185911458/photo/jute-plant-stems-laid-for-drying-in-the-sun.jpg?s=612x612&w=0&k=20&c=wKrT30GXG12xC0cJbxrOIr5HvjmzRvcTUtYCfi_lgNI="
+            },
+            "Sesame": {
+                "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Sesamum_indicum_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-129.jpg"
+            }
+        }
+    },
+    "Tobacco": {
+        "family": "Solanaceae",
+        "planting_months": [
+            6,
+            7
+        ],
+        "grow_duration": 4,
+        "successor_crops": [
+            "Groundnut",
+            "Soybean",
+            "Cotton"
+        ],
+        "soil_type": ["Sandy loam", "Red"],
+        "water_requirement": 0,
+        "nutrient_group": 0,
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/DunhillLightFlake.jpg/500px-DunhillLightFlake.jpg",
+        "successors": {
+            "Groundnut": {
+                "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRp-ZtVrTDlDV5Ookt10HHxZqqz972ByFKxvw&s"
+            },
+            "Soybean": {
+                "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Soybean.USDA.jpg/500px-Soybean.USDA.jpg"
+            },
+            "Cotton": {
+                "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/CottonPlant.JPG/500px-CottonPlant.JPG"
+            }
+        }
+    },
+    "Chillies": {
+        "family": "Solanaceae",
+        "planting_months": [
+            6,
+            7
+        ],
+        "grow_duration": 4,
+        "successor_crops": [
+            "Groundnut",
+            "Soybean",
+            "Cotton"
+        ],
+        "soil_type": ["Loamy", "Black"],
+        "water_requirement": 1,
+        "nutrient_group": 1,
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Madame_Jeanette_and_other_chillies.jpg/500px-Madame_Jeanette_and_other_chillies.jpg",
+        "successors": {
+            "Groundnut": {
+                "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRp-ZtVrTDlDV5Ookt10HHxZqqz972ByFKxvw&s"
+            },
+            "Soybean": {
+                "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Soybean.USDA.jpg/500px-Soybean.USDA.jpg"
+            },
+            "Cotton": {
+                "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/CottonPlant.JPG/500px-CottonPlant.JPG"
+            }
+        }
+    },
+    "Turmeric": {
+        "family": "Zingiberaceae",
+        "planting_months": [
+            5,
+            6
+        ],
+        "grow_duration": 9,
+        "successor_crops": [
+            "Green Gram",
+            "Sesame",
+            "Cowpea"
+        ],
+        "soil_type": ["Loamy", "Alluvial"],
+        "water_requirement": 2,
+        "nutrient_group": 2,
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Turmeric_inflorescence.jpg/500px-Turmeric_inflorescence.jpg",
+        "successors": {
+            "Green Gram": {
+                "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Mung_beans_%28Vigna_radiata%29.jpg/500px-Mung_beans_%28Vigna_radiata%29.jpg"
+            },
+            "Sesame": {
+                "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Sesamum_indicum_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-129.jpg"
+            },
+            "Cowpea": {
+                "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Lobia.jpg/500px-Lobia.jpg"
+            }
+        }
+    },
+    "Black Pepper": {
+        "family": "Piperaceae",
+        "planting_months": [
+            5,
+            6
+        ],
+        "grow_duration": 12,
+        "successor_crops": [
+            "Ginger",
+            "Turmeric"
+        ],
+        "soil_type": ["Laterite", "Loamy"],
+        "water_requirement": 2,
+        "nutrient_group": 2,
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Piper_nigrum_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-107.jpg",
+        "successors": {
+            "Ginger": {
+                "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Koeh-146-no_text.jpg/500px-Koeh-146-no_text.jpg"
+            },
+            "Turmeric": {
+                "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Turmeric_inflorescence.jpg/500px-Turmeric_inflorescence.jpg"
+            }
+        }
+    },
+    "Cardamom": {
+        "family": "Zingiberaceae",
+        "planting_months": [
+            6,
+            7
+        ],
+        "grow_duration": 12,
+        "successor_crops": [
+            "Turmeric",
+            "Ginger"
+        ],
+        "soil_type": ["Loamy", "Forest soils"],
+        "water_requirement": 2,
+        "nutrient_group": 2,
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/02017_0119_Kardamom%2C_Winter_in_den_Beskiden.jpg/500px-02017_0119_Kardamom%2C_Winter_in_den_Beskiden.jpg",
+        "successors": {
+            "Turmeric": {
+                "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Turmeric_inflorescence.jpg/500px-Turmeric_inflorescence.jpg"
+            },
+            "Ginger": {
+                "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Koeh-146-no_text.jpg/500px-Koeh-146-no_text.jpg"
+            }
+        }
+    },
+    "Coffee": {
+        "family": "Rubiaceae",
+        "planting_months": [
+            6,
+            7
+        ],
+        "grow_duration": 12,
+        "successor_crops": [
+            "Black Pepper",
+            "Cardamom"
+        ],
+        "soil_type": ["Loamy", "Forest soils"],
+        "water_requirement": 2,
+        "nutrient_group": 2,
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Latte_and_dark_coffee.jpg/500px-Latte_and_dark_coffee.jpg",
+        "successors": {
+            "Black Pepper": {
+                "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Piper_nigrum_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-107.jpg"
+            },
+            "Cardamom": {
+                "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/02017_0119_Kardamom%2C_Winter_in_den_Beskiden.jpg/500px-02017_0119_Kardamom%2C_Winter_in_den_Beskiden.jpg"
+            }
+        }
+    },
+    "Tea": {
+        "family": "Theaceae",
+        "planting_months": [
+            6,
+            7
+        ],
+        "grow_duration": 12,
+        "successor_crops": [
+            "Ginger",
+            "Turmeric"
+        ],
+        "soil_type": ["Acidic loamy", "Laterite"],
+        "water_requirement": 2,
+        "nutrient_group": 1,
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Longjing_tea_steeping_in_gaiwan.jpg/500px-Longjing_tea_steeping_in_gaiwan.jpg",
+        "successors": {
+            "Ginger": {
+                "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Koeh-146-no_text.jpg/500px-Koeh-146-no_text.jpg"
+            },
+            "Turmeric": {
+                "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Turmeric_inflorescence.jpg/500px-Turmeric_inflorescence.jpg"
+            }
+        }
+    },
+    "Banana": {
+        "family": "Musaceae",
+        "planting_months": [
+            6,
+            7
+        ],
+        "grow_duration": 12,
+        "successor_crops": [
+            "Green Gram",
+            "Cowpea"
+        ],
+        "soil_type": ["Alluvial", "Loamy"],
+        "water_requirement": 2,
+        "nutrient_group": 2,
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Bananavarieties.jpg",
+        "successors": {
+            "Green Gram": {
+                "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Mung_beans_%28Vigna_radiata%29.jpg/500px-Mung_beans_%28Vigna_radiata%29.jpg"
+            },
+            "Cowpea": {
+                "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Lobia.jpg/500px-Lobia.jpg"
+            }
+        }
+    },
+    "Coconut": {
+        "family": "Arecaceae",
+        "planting_months": [
+            6,
+            7
+        ],
+        "grow_duration": 12,
+        "successor_crops": [
+            "Pineapple",
+            "Turmeric"
+        ],
+        "soil_type": ["Sandy loam", "Laterite"],
+        "water_requirement": 2,
+        "nutrient_group": 2,
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Cocos_nucifera_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-187.jpg/500px-Cocos_nucifera_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-187.jpg",
+        "successors": {
+            "Pineapple": {
+                "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/%E0%B4%95%E0%B5%88%E0%B4%A4%E0%B4%9A%E0%B5%8D%E0%B4%9A%E0%B4%95%E0%B5%8D%E0%B4%95.jpg/500px-%E0%B4%95%E0%B5%88%E0%B4%A4%E0%B4%9A%E0%B5%8D%E0%B4%9A%E0%B4%95%E0%B5%8D%E0%B4%95.jpg"
+            },
+            "Turmeric": {
+                "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Turmeric_inflorescence.jpg/500px-Turmeric_inflorescence.jpg"
+            }
+        }
+    },
+    "Arecanut": {
+        "family": "Arecaceae",
+        "planting_months": [
+            6,
+            7
+        ],
+        "grow_duration": 12,
+        "successor_crops": [
+            "Black Pepper",
+            "Cardamom"
+        ],
+        "soil_type": ["Laterite", "Loamy"],
+        "water_requirement": 2,
+        "nutrient_group": 2,
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Bago%2C_mercado_23.jpg/500px-Bago%2C_mercado_23.jpg",
+        "successors": {
+            "Black Pepper": {
+                "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Piper_nigrum_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-107.jpg"
+            },
+            "Cardamom": {
+                "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/02017_0119_Kardamom%2C_Winter_in_den_Beskiden.jpg/500px-02017_0119_Kardamom%2C_Winter_in_den_Beskiden.jpg"
+            }
+        }
+    },
+    "Cashew": {
+        "family": "Anacardiaceae",
+        "planting_months": [
+            6,
+            7
+        ],
+        "grow_duration": 12,
+        "successor_crops": [
+            "Pineapple",
+            "Turmeric"
+        ],
+        "soil_type": ["Laterite", "Sandy loam"],
+        "water_requirement": 1,
+        "nutrient_group": 2,
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Cashew_apples.jpg/500px-Cashew_apples.jpg",
+        "successors": {
+            "Pineapple": {
+                "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/%E0%B4%95%E0%B5%88%E0%B4%A4%E0%B4%9A%E0%B5%8D%E0%B4%9A%E0%B4%95%E0%B5%8D%E0%B4%95.jpg/500px-%E0%B4%95%E0%B5%88%E0%B4%A4%E0%B4%9A%E0%B5%8D%E0%B4%9A%E0%B4%95%E0%B5%8D%E0%B4%95.jpg"
+            },
+            "Turmeric": {
+                "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Turmeric_inflorescence.jpg/500px-Turmeric_inflorescence.jpg"
+            }
+        }
+    },
+    "Tapioca": {
+        "family": "Euphorbiaceae",
+        "planting_months": [
+            6,
+            7
+        ],
+        "grow_duration": 9,
+        "successor_crops": [
+            "Green Gram",
+            "Cowpea"
+        ],
+        "soil_type": ["Sandy loam", "Red"],
+        "water_requirement": 1,
+        "nutrient_group": 1,
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Tepung_casava.jpg/500px-Tepung_casava.jpg",
+        "successors": {
+            "Green Gram": {
+                "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Mung_beans_%28Vigna_radiata%29.jpg/500px-Mung_beans_%28Vigna_radiata%29.jpg"
+            },
+            "Cowpea": {
+                "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Lobia.jpg/500px-Lobia.jpg"
+            }
+        }
+    },
+    "Sweet Potato": {
+        "family": "Convolvulaceae",
+        "planting_months": [
+            6,
+            7
+        ],
+        "grow_duration": 4,
+        "successor_crops": [
+            "Green Gram",
+            "Cowpea"
+        ],
+        "soil_type": ["Sandy loam", "Well-drained"],
+        "water_requirement": 1,
+        "nutrient_group": 1,
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Ipomoea_batatas_006.JPG/500px-Ipomoea_batatas_006.JPG",
+        "successors": {
+            "Green Gram": {
+                "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Mung_beans_%28Vigna_radiata%29.jpg/500px-Mung_beans_%28Vigna_radiata%29.jpg"
+            },
+            "Cowpea": {
+                "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Lobia.jpg/500px-Lobia.jpg"
+            }
+        }
+    },
+    "Yam": {
+        "family": "Dioscoreaceae",
+        "planting_months": [
+            6,
+            7
+        ],
+        "grow_duration": 9,
+        "successor_crops": [
+            "Green Gram",
+            "Cowpea"
+        ],
+        "soil_type": ["Loamy", "Alluvial"],
+        "water_requirement": 2,
+        "nutrient_group": 2,
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS82k9E57gywz9VSmseVmFa2wt4cTLE_VN9vg&s",
+        "successors": {
+            "Green Gram": {
+                "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Mung_beans_%28Vigna_radiata%29.jpg/500px-Mung_beans_%28Vigna_radiata%29.jpg"
+            },
+            "Cowpea": {
+                "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Lobia.jpg/500px-Lobia.jpg"
+            }
+        }
+    },
+    "Elephant Foot Yam": {
+        "family": "Araceae",
+        "planting_months": [
+            6,
+            7
+        ],
+        "grow_duration": 9,
+        "successor_crops": [
+            "Green Gram",
+            "Cowpea"
+        ],
+        "soil_type": ["Loamy", "Red"],
+        "water_requirement": 2,
+        "nutrient_group": 2,
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Amorphophallus_paeoniifolius_%28Philippines%29_5.jpg/500px-Amorphophallus_paeoniifolius_%28Philippines%29_5.jpg",
+        "successors": {
+            "Green Gram": {
+                "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Mung_beans_%28Vigna_radiata%29.jpg/500px-Mung_beans_%28Vigna_radiata%29.jpg"
+            },
+            "Cowpea": {
+                "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Lobia.jpg/500px-Lobia.jpg"
+            }
+        }
+    },
+    "Colocasia": {
+        "family": "Araceae",
+        "planting_months": [
+            6,
+            7
+        ],
+        "grow_duration": 6,
+        "successor_crops": [
+            "Green Gram",
+            "Cowpea"
+        ],
+        "soil_type": ["Clay loam", "Alluvial"],
+        "water_requirement": 2,
+        "nutrient_group": 2,
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Taimo_Okinawa.jpg/500px-Taimo_Okinawa.jpg",
+        "successors": {
+            "Green Gram": {
+                "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Mung_beans_%28Vigna_radiata%29.jpg/500px-Mung_beans_%28Vigna_radiata%29.jpg"
+            },
+            "Cowpea": {
+                "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Lobia.jpg/500px-Lobia.jpg"
+            }
+        }
+    },
+    "Amaranth": {
+        "family": "Amaranthaceae",
+        "planting_months": [
+            6,
+            7
+        ],
+        "grow_duration": 2,
+        "successor_crops": [
+            "Green Gram",
+            "Cowpea"
+        ],
+        "soil_type": ["Loamy", "Sandy loam"],
+        "water_requirement": 1,
+        "nutrient_group": 1,
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Amaranthus_tricolor0.jpg/500px-Amaranthus_tricolor0.jpg",
+        "successors": {
+            "Green Gram": {
+                "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Mung_beans_%28Vigna_radiata%29.jpg/500px-Mung_beans_%28Vigna_radiata%29.jpg"
+            },
+            "Cowpea": {
+                "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Lobia.jpg/500px-Lobia.jpg"
+            }
+        }
+    },
+    "Spinach": {
+        "family": "Amaranthaceae",
+        "planting_months": [
+            6,
+            7,
+            9,
+            10
+        ],
+        "grow_duration": 2,
+        "successor_crops": [
+            "Green Gram",
+            "Cowpea"
+        ],
+        "soil_type": ["Alluvial", "Loamy"],
+        "water_requirement": 2,
+        "nutrient_group": 2,
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Spinacia_oleracea_Spinazie_bloeiend.jpg/500px-Spinacia_oleracea_Spinazie_bloeiend.jpg",
+        "successors": {
+            "Green Gram": {
+                "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Mung_beans_%28Vigna_radiata%29.jpg/500px-Mung_beans_%28Vigna_radiata%29.jpg"
+            },
+            "Cowpea": {
+                "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Lobia.jpg/500px-Lobia.jpg"
+            }
+        }
+    },
+    "Fenugreek": {
+        "family": "Fabaceae",
+        "planting_months": [
+            6,
+            7,
+            9,
+            10
+        ],
+        "grow_duration": 2,
+        "successor_crops": [
+            "Green Gram",
+            "Cowpea"
+        ],
+        "soil_type": ["Loamy", "Sandy loam"],
+        "water_requirement": 1,
+        "nutrient_group": 1,
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Illustration_Trigonella_foenum-graecum0_clean.jpg/500px-Illustration_Trigonella_foenum-graecum0_clean.jpg",
+        "successors": {
+            "Green Gram": {
+                "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Mung_beans_%28Vigna_radiata%29.jpg/500px-Mung_beans_%28Vigna_radiata%29.jpg"
+            },
+            "Cowpea": {
+                "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Lobia.jpg/500px-Lobia.jpg"
+            }
+        }
+    },
+    "Coriander": {
+        "family": "Apiaceae",
+        "planting_months": [
+            6,
+            7
+        ],
+        "grow_duration": 2,
+        "successor_crops": [
+            "Green Gram",
+            "Cowpea"
+        ],
+        "soil_type": ["Loamy", "Alluvial"],
+        "water_requirement": 1,
+        "nutrient_group": 1,
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Coriandrum_sativum_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-193.jpg",
+        "successors": {
+            "Green Gram": {
+                "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Mung_beans_%28Vigna_radiata%29.jpg/500px-Mung_beans_%28Vigna_radiata%29.jpg"
+            },
+            "Cowpea": {
+                "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Lobia.jpg/500px-Lobia.jpg"
+            }
+        }
+    },
+    "Cumin": {
+        "family": "Apiaceae",
+        "planting_months": [
+            6,
+            7
+        ],
+        "grow_duration": 3,
+        "successor_crops": [
+            "Green Gram",
+            "Cowpea"
+        ],
+        "soil_type": ["Sandy loam", "Light soil"],
+        "water_requirement": 0,
+        "nutrient_group": 0,
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Cuminum_cyminum_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-198.jpg",
+        "successors": {
+            "Green Gram": {
+                "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Mung_beans_%28Vigna_radiata%29.jpg/500px-Mung_beans_%28Vigna_radiata%29.jpg"
+            },
+            "Cowpea": {
+                "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Lobia.jpg/500px-Lobia.jpg"
+            }
+        }
+    },
+    "Fennel": {
+        "family": "Apiaceae",
+        "planting_months": [
+            6,
+            7
+        ],
+        "grow_duration": 4,
+        "successor_crops": [
+            "Green Gram",
+            "Cowpea"
+        ],
+        "soil_type": ["Loamy", "Sandy loam"],
+        "water_requirement": 1,
+        "nutrient_group": 1,
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Foeniculum_July_2011-1a.jpg/500px-Foeniculum_July_2011-1a.jpg",
+        "successors": {
+            "Green Gram": {
+                "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Mung_beans_%28Vigna_radiata%29.jpg/500px-Mung_beans_%28Vigna_radiata%29.jpg"
+            },
+            "Cowpea": {
+                "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Lobia.jpg/500px-Lobia.jpg"
+            }
+        }
+    },
+    "Mustard Greens": {
+        "family": "Brassicaceae",
+        "planting_months": [
+            10,
+            11
+        ],
+        "grow_duration": 3,
+        "successor_crops": [
+            "Green Gram",
+            "Cowpea"
+        ],
+        "soil_type": ["Loamy", "Alluvial"],
+        "water_requirement": 1,
+        "nutrient_group": 1,
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRObk_s1ECYkBesknLB1Lq0xrOnthl1OWDCMQ&s",
+        "successors": {
+            "Green Gram": {
+                "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Mung_beans_%28Vigna_radiata%29.jpg/500px-Mung_beans_%28Vigna_radiata%29.jpg"
+            },
+            "Cowpea": {
+                "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Lobia.jpg/500px-Lobia.jpg"
+            }
+        }
+    },
+    "Radish": {
+        "family": "Brassicaceae",
+        "planting_months": [
+            10,
+            11
+        ],
+        "grow_duration": 2,
+        "successor_crops": [
+            "Green Gram",
+            "Cowpea"
+        ],
+        "soil_type": ["Sandy loam", "Light soil"],
+        "water_requirement": 1,
+        "nutrient_group": 1,
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Radish_3371103037_4ab07db0bf_o.jpg/500px-Radish_3371103037_4ab07db0bf_o.jpg",
+        "successors": {
+            "Green Gram": {
+                "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Mung_beans_%28Vigna_radiata%29.jpg/500px-Mung_beans_%28Vigna_radiata%29.jpg"
+            },
+            "Cowpea": {
+                "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Lobia.jpg/500px-Lobia.jpg"
+            }
+        }
+    },
+    "Carrot": {
+        "family": "Apiaceae",
+        "planting_months": [
+            10,
+            11
+        ],
+        "grow_duration": 3,
+        "successor_crops": [
+            "Green Gram",
+            "Cowpea"
+        ],
+        "soil_type": ["Sandy loam", "Light loam"],
+        "water_requirement": 1,
+        "nutrient_group": 1,
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Vegetable-Carrot-Bundle-wStalks.jpg/500px-Vegetable-Carrot-Bundle-wStalks.jpg",
+        "successors": {
+            "Green Gram": {
+                "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Mung_beans_%28Vigna_radiata%29.jpg/500px-Mung_beans_%28Vigna_radiata%29.jpg"
+            },
+            "Cowpea": {
+                "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Lobia.jpg/500px-Lobia.jpg"
+            }
+        }
+    },
+    "Beetroot": {
+        "family": "Amaranthaceae",
+        "planting_months": [
+            10,
+            11
+        ],
+        "grow_duration": 3,
+        "successor_crops": [
+            "Green Gram",
+            "Cowpea"
+        ],
+        "soil_type": ["Loamy", "Sandy loam"],
+        "water_requirement": 1,
+        "nutrient_group": 1,
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Detroitdarkredbeets.png/500px-Detroitdarkredbeets.png",
+        "successors": {
+            "Green Gram": {
+                "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Mung_beans_%28Vigna_radiata%29.jpg/500px-Mung_beans_%28Vigna_radiata%29.jpg"
+            },
+            "Cowpea": {
+                "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Lobia.jpg/500px-Lobia.jpg"
+            }
+        }
+    },
+    "Turnip": {
+        "family": "Brassicaceae",
+        "planting_months": [
+            10,
+            11
+        ],
+        "grow_duration": 3,
+        "successor_crops": [
+            "Green Gram",
+            "Cowpea"
+        ],
+        "soil_type": ["Loamy", "Alluvial"],
+        "water_requirement": 1,
+        "nutrient_group": 1,
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Turnip_2622027.jpg/500px-Turnip_2622027.jpg",
+        "successors": {
+            "Green Gram": {
+                "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Mung_beans_%28Vigna_radiata%29.jpg/500px-Mung_beans_%28Vigna_radiata%29.jpg"
+            },
+            "Cowpea": {
+                "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Lobia.jpg/500px-Lobia.jpg"
+            }
+        }
+    },
+    "Onion": {
+        "family": "Amaryllidaceae",
+        "planting_months": [
+            10,
+            11
+        ],
+        "grow_duration": 4,
+        "successor_crops": [
+            "Green Gram",
+            "Cowpea"
+        ],
+        "soil_type": ["Sandy loam", "Well-drained"],
+        "water_requirement": 1,
+        "nutrient_group": 1,
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Mixed_onions.jpg/500px-Mixed_onions.jpg",
+        "successors": {
+            "Green Gram": {
+                "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Mung_beans_%28Vigna_radiata%29.jpg/500px-Mung_beans_%28Vigna_radiata%29.jpg"
+            },
+            "Cowpea": {
+                "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Lobia.jpg/500px-Lobia.jpg"
+            }
+        }
+    },
+    "Garlic": {
+        "family": "Amaryllidaceae",
+        "planting_months": [
+            10,
+            11
+        ],
+        "grow_duration": 5,
+        "successor_crops": [
+            "Green Gram",
+            "Cowpea"
+        ],
+        "soil_type": ["Loamy", "Sandy loam"],
+        "water_requirement": 1,
+        "nutrient_group": 1,
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Allium_sativum_Woodwill_1793.jpg",
+        "successors": {
+            "Green Gram": {
+                "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Mung_beans_%28Vigna_radiata%29.jpg/500px-Mung_beans_%28Vigna_radiata%29.jpg"
+            },
+            "Cowpea": {
+                "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Lobia.jpg/500px-Lobia.jpg"
+            }
+        }
+    },
+    "Tomato": {
+        "family": "Solanaceae",
+        "planting_months": [
+            10,
+            11
+        ],
+        "grow_duration": 4,
+        "successor_crops": [
+            "Green Gram",
+            "Cowpea"
+        ],
+        "soil_type": ["Red loam", "Sandy loam"],
+        "water_requirement": 2,
+        "nutrient_group": 2,
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Tomato_je.jpg/500px-Tomato_je.jpg",
+        "successors": {
+            "Green Gram": {
+                "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Mung_beans_%28Vigna_radiata%29.jpg/500px-Mung_beans_%28Vigna_radiata%29.jpg"
+            },
+            "Cowpea": {
+                "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Lobia.jpg/500px-Lobia.jpg"
+            }
+        }
+    },
+    "Green Gram": {
+        "family": "Fabaceae",
+        "planting_months": [
+            3,
+            4,
+            6,
+            7,
+            10,
+            11
+        ],
+        "grow_duration": 2,
+        "successor_crops": [
+            "Wheat",
+            "Mustard",
+            "Rice"
+        ],
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Mung_beans_%28Vigna_radiata%29.jpg/500px-Mung_beans_%28Vigna_radiata%29.jpg",
+        "successors": {
+            "Wheat": {
+                "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Vehn%C3%A4pelto_6.jpg/500px-Vehn%C3%A4pelto_6.jpg"
+            },
+            "Mustard": {
+                "image_url": "https://as1.ftcdn.net/v2/jpg/04/36/98/96/1000_F_436989686_PPLp8Vo0atNIyD8rvtm8hN3y4R9YBvvQ.jpg"
+            },
+            "Rice": {
+                "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/20201102.Hengnan.Hybrid_rice_Sanyou-1.6.jpg/500px-20201102.Hengnan.Hybrid_rice_Sanyou-1.6.jpg"
+            }
+        }
+    },
+    "Black Gram": {
+        "family": "Fabaceae",
+        "planting_months": [
+            6,
+            7,
+            10,
+            11
+        ],
+        "grow_duration": 2,
+        "successor_crops": [
+            "Wheat",
+            "Chickpea",
+            "Barley",
+            "Mustard",
+            "Rice"
+        ],
+        "soil_type": ["Loamy", "Sandy loam"],
+        "water_requirement": 1,
+        "nutrient_group": 1,
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Black_gram.jpg/500px-Black_gram.jpg",
+        "successors": {
+            "Wheat": {
+                "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Vehn%C3%A4pelto_6.jpg/500px-Vehn%C3%A4pelto_6.jpg"
+            },
+            "Chickpea": {
+                "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Chickpea_BNC.jpg/500px-Chickpea_BNC.jpg"
+            },
+            "Barley": {
+                "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Barley_%28Hordeum_vulgare%29_-_United_States_National_Arboretum_-_24_May_2009.jpg/500px-Barley_%28Hordeum_vulgare%29_-_United_States_National_Arboretum_-_24_May_2009.jpg"
+            },
+            "Mustard": {
+                "image_url": "https://as1.ftcdn.net/v2/jpg/04/36/98/96/1000_F_436989686_PPLp8Vo0atNIyD8rvtm8hN3y4R9YBvvQ.jpg"
+            },
+            "Rice": {
+                "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/20201102.Hengnan.Hybrid_rice_Sanyou-1.6.jpg/500px-20201102.Hengnan.Hybrid_rice_Sanyou-1.6.jpg"
+            }
+        }
+    },
+    "Cowpea": {
+        "family": "Fabaceae",
+        "planting_months": [
+            2,
+            3,
+            6,
+            7
+        ],
+        "grow_duration": 3,
+        "successor_crops": [
+            "Maize",
+            "Sorghum",
+            "Millets"
+        ],
+        "soil_type": ["Sandy loam", "Light soil"],
+        "water_requirement": 1,
+        "nutrient_group": 1,
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Lobia.jpg/500px-Lobia.jpg",
+        "successors": {
+            "Maize": {
+                "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Zea_mays_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-283.jpg"
+            },
+            "Sorghum": {
+                "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Sorghum_bicolor03.jpg/500px-Sorghum_bicolor03.jpg"
+            },
+            "Millets": {
+                "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Grain_millet%2C_early_grain_fill%2C_Tifton%2C_7-3-02.jpg/500px-Grain_millet%2C_early_grain_fill%2C_Tifton%2C_7-3-02.jpg"
+            }
+        }
+    },
+    "Pigeon Pea": {
+        "family": "Fabaceae",
+        "planting_months": [
+            6,
+            7
+        ],
+        "grow_duration": 5,
+        "successor_crops": [
+            "Wheat",
+            "Barley",
+            "Mustard"
+        ],
+        "soil_type": ["Red loam", "Well-drained"],
+        "water_requirement": 2,
+        "nutrient_group": 2,
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV6S_wkfQe2jF5a524eebIxgOgzfEMU5ZEmA&s",
+        "successors": {
+            "Wheat": {
+                "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Vehn%C3%A4pelto_6.jpg/500px-Vehn%C3%A4pelto_6.jpg"
+            },
+            "Barley": {
+                "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Barley_%28Hordeum_vulgare%29_-_United_States_National_Arboretum_-_24_May_2009.jpg/500px-Barley_%28Hordeum_vulgare%29_-_United_States_National_Arboretum_-_24_May_2009.jpg"
+            },
+            "Mustard": {
+                "image_url": "https://as1.ftcdn.net/v2/jpg/04/36/98/96/1000_F_436989686_PPLp8Vo0atNIyD8rvtm8hN3y4R9YBvvQ.jpg"
+            }
+        }
+    },
+    "Horse Gram": {
+        "family": "Fabaceae",
+        "planting_months": [
+            7,
+            8
+        ],
+        "grow_duration": 3,
+        "successor_crops": [
+            "Maize",
+            "Sorghum",
+            "Millets"
+        ],
+        "soil_type": ["Red", "Light soil"],
+        "water_requirement": 0,
+        "nutrient_group": 0,
+        "image_url": "https://i2.wp.com/vaerorganic.com/wp-content/uploads/2020/09/horse-gram-1-scaled.jpg?fit=2560%2C2560&ssl=1",
+        "successors": {
+            "Maize": {
+                "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Zea_mays_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-283.jpg"
+            },
+            "Sorghum": {
+                "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Sorghum_bicolor03.jpg/500px-Sorghum_bicolor03.jpg"
+            },
+            "Millets": {
+                "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Grain_millet%2C_early_grain_fill%2C_Tifton%2C_7-3-02.jpg/500px-Grain_millet%2C_early_grain_fill%2C_Tifton%2C_7-3-02.jpg"
+            }
+        }
+    },
+    "Field Pea": {
+        "family": "Fabaceae",
+        "planting_months": [
+            10,
+            11
+        ],
+        "grow_duration": 3,
+        "successor_crops": [
+            "Maize",
+            "Millet",
+            "Sesame"
+        ],
+        "soil_type": ["Loamy", "Alluvial"],
+        "water_requirement": 1,
+        "nutrient_group": 1,
+        "image_url": "https://media.istockphoto.com/id/1202459819/photo/green-peas-in-pods-growing-in-summer-garden.jpg?s=612x612&w=0&k=20&c=vHh3-JfzUb5afnDqtbbGM16EsLJgz2XLHqsLwRyuho4=",
+        "successors": {
+            "Maize": {
+                "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Zea_mays_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-283.jpg"
+            },
+            "Millet": {
+                "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Grain_millet%2C_early_grain_fill%2C_Tifton%2C_7-3-02.jpg/500px-Grain_millet%2C_early_grain_fill%2C_Tifton%2C_7-3-02.jpg"
+            },
+            "Sesame": {
+                "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Sesamum_indicum_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-129.jpg"
+            }
+        }
+    }
+}

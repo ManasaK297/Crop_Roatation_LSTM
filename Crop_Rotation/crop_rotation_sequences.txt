@@ -1,0 +1,322 @@
+Rice → Pulses
+Rice → Pulses
+Rice → Mustard → Moong → Rice
+Rice → Chickpea → Sorghum → Black Gram
+Rice → Mustard → Maize → Legumes
+Rice → Cowpea → Ragi + Cowpea
+Rice → Maize → Green Gram
+Rice → Bhendi → Ragi
+Rice → Marigold → Black Gram → Ragi + Cowpea
+Rice → Green Gram → Mustard → Maize
+Rice → Black Gram → Ragi → Chickpea
+Rice → Green Gram → Ragi → Sesame
+Rice → Cowpea → Sorghum → Black Gram
+Wheat → Sesame → Chickpea → Sorghum
+Wheat → Rice → Wheat → Millet
+Wheat → Sesame → Chickpea → Sorghum
+Wheat → Rice → Green Gram → Mustard
+Wheat → Moong → Rice → Green Gram
+Wheat → Moong → Rice → Black Gram
+Wheat → Millet
+Wheat → Mustard → Peas
+Wheat → Sesame → Wheat → Millet
+Wheat → Moong → Wheat → Rice
+Wheat → Green Gram → Mustard → Maize
+Wheat → Chickpea → Jowar
+Maize → Legumes
+Maize → Lentil → Pulses
+Maize → Legumes
+Maize → Legumes
+Maize → Lentil → Rice → Wheat
+Maize → Green Gram → Ragi
+Maize → Groundnut → Ragi + Desmodium
+Maize → Mustard → Peas
+Maize → Lentil → Millet
+Maize → Chickpea → Sorghum
+Maize → Legumes → Black Gram
+Maize → Black Gram → Barley → Mustard
+Ragi → Horse Gram → Sorghum → Red Gram
+Ragi → Wheat → Rice → Cowpea
+Ragi → Black Gram → Chickpea → Maize
+Ragi → Chickpea → Jowar
+Ragi → Linseed → Sesame → Chickpea
+Ragi → Desmodium (intercrop)
+Ragi → Pigeon Pea → Maize
+Ragi → Cowpea → Sorghum
+Ragi → Groundnut → Sorghum → Black Gram
+Ragi → Black Gram → Mustard → Peas
+Ragi → Chickpea → Maize → Chickpea
+Ragi → Soybean → Barley → Lentil
+Barley → Legumes
+Barley → Lentil → Pulses
+Barley → Lentil → Rice → Cowpea
+Barley → Moong → Wheat → Rice
+Barley → Lentil → Millet
+Sorghum → Red Gram
+Sorghum → Cowpea → Maize → Legumes
+Sorghum → Chickpea → Sorghum → Chickpea
+Sorghum → Chickpea → Sorghum → Chickpea
+Sorghum → Chickpea → Jowar
+Sorghum → Groundnut → Ragi
+Sorghum → Chickpea → Sorghum → Chickpea
+Sorghum → Pearl Millet → Chickpea
+Sorghum → Red Gram → Jowar
+Sorghum → Black Gram → Barley → Mustard
+Sorghum → Cowpea → Sorghum → Black Gram
+Bajra → Soybean → Barley → Mustard
+Bajra → Pigeon Pea → Barley → Lentil
+Bajra → Pigeon Pea → Wheat → Millet
+Bajra → Cowpea → Millets
+Bajra → Cowpea → Millets
+Moong → Wheat → Moong → Wheat
+Moong → Wheat → Rice → Green Gram
+Moong → Mustard → Peas
+Moong → Mustard → Peas
+Moong → Wheat → Rice → Cowpea
+Urad → Wheat → Moong → Rice
+Urad → Rice → Black Gram → Rice
+Urad → Rice → Wheat → Moong
+Urad → Barley → Mustard → Maize
+Urad → Chickpea → Sorghum → Cowpea
+Masoor → Paddy
+Masoor → Maize → Chickpea → Jowar
+Masoor → Millet
+Masoor → Sesame → Barley → Lentil
+Masoor → Bajra → Sunflower
+Chickpea → Maize → Legumes
+Chickpea → Maize → Lentil → Millet
+Chickpea → Jowar
+Chickpea → Jowar
+Chickpea → Maize → Legumes
+Lentil → Pulses
+Lentil → Peas
+Lentil → Peas
+Lentil → Pulses
+Lentil → Millet
+Groundnut → Maize → Lentil → Peas
+Groundnut → Sorghum → Red Gram
+Groundnut → Sorghum → Chickpea → Maize
+Groundnut → Cotton → Peas
+Groundnut → Sorghum → Cowpea → Millets
+Soybean → Chickpea → Jowar
+Soybean → Barley → Lentil → Peas
+Soybean → Wheat → Millet
+Soybean → Chickpea → Jowar
+Soybean → Chickpea → Jowar
+Mustard → Moong → Mustard → Moong
+Mustard → Peas
+Mustard → Peas
+Mustard → Peas
+Mustard → Maize → Mustard → Maize
+Linseed → Sesame → Chickpea → Jowar
+Linseed → Maize → Legumes
+Linseed → Maize → Peas
+Linseed → Moong → Wheat → Moong
+Linseed → Maize → Chickpea → Sorghum
+Sesame → Wheat → Rice → Chickpea
+Sesame → Chickpea → Jowar
+Sesame → Barley → Mustard → Maize
+Sesame → Barley → Legumes
+Sesame → Chickpea → Maize → Lentil
+Cotton → Mustard → Peas
+Cotton → Wheat → Rice → Pulses
+Cotton → Mustard → Moong → Mustard
+Cotton → Peas
+Cotton → Peas
+Sugarcane → Cotton → Peas
+Sugarcane → Maize → Lentil → Pulses
+Sugarcane → Pulses
+Sugarcane → Oilseeds
+Sugarcane → Cotton → Wheat → Sesame
+Jute → Paddy
+Jute → Sesame → Chickpea → Sorghum
+Jute → Sesame → Chickpea → Maize
+Jute → Paddy
+Jute → Paddy
+Tobacco → Soybean → Chickpea → Jowar
+Tobacco → Cotton → Wheat → Moong
+Tobacco → Groundnut → Maize → Lentil
+Tobacco → Soybean → Wheat → Moong
+Tobacco → Soybean → Wheat → Rice
+Chillies → Soybean → Barley → Legumes
+Chillies → Soybean → Barley → Moong
+Chillies → Soybean → Chickpea → Jowar
+Chillies → Soybean → Chickpea → Sorghum
+Chillies → Cotton → Peas
+Turmeric → Cowpea → Millets
+Turmeric → Sesame → Barley → Lentil
+Turmeric → Green Gram → Mustard → Maize
+Turmeric → Sesame → Barley → Moong
+Turmeric → Sesame → Chickpea → Sorghum
+Black Pepper → Ginger
+Black Pepper → Turmeric → Sesame → Chickpea
+Black Pepper → Ginger
+Black Pepper → Turmeric → Sesame → Barley
+Black Pepper → Ginger
+Cardamom → Turmeric → Green Gram → Mustard
+Cardamom → Ginger
+Cardamom → Turmeric → Cowpea → Sorghum
+Cardamom → Turmeric → Cowpea → Millets
+Cardamom → Turmeric → Cowpea → Sorghum
+Coffee → Black Pepper → Turmeric → Cowpea
+Coffee → Cardamom → Ginger
+Coffee → Cardamom → Turmeric → Sesame
+Coffee → Cardamom → Ginger
+Coffee → Black Pepper → Ginger
+Tea → Turmeric → Cowpea → Millets
+Tea → Ginger
+Tea → Ginger
+Tea → Turmeric → Green Gram → Wheat
+Tea → Turmeric → Green Gram → Rice
+Banana → Green Gram → Rice → Mustard
+Banana → Cowpea → Sorghum → Black Gram
+Banana → Cowpea → Millets
+Banana → Green Gram → Rice → Black Gram
+Banana → Green Gram → Mustard → Maize
+Coconut → Pineapple
+Coconut → Pineapple
+Coconut → Pineapple
+Coconut → Pineapple
+Coconut → Pineapple
+Arecanut → Cardamom → Turmeric → Sesame
+Arecanut → Cardamom → Ginger
+Arecanut → Black Pepper → Turmeric → Green Gram
+Arecanut → Cardamom → Turmeric → Cowpea
+Arecanut → Cardamom → Turmeric → Sesame
+Cashew → Pineapple
+Cashew → Turmeric → Green Gram → Mustard
+Cashew → Pineapple
+Cashew → Turmeric → Cowpea → Sorghum
+Cashew → Turmeric → Green Gram → Wheat
+Tapioca → Green Gram → Wheat → Sesame
+Tapioca → Cowpea → Maize → Lentil
+Tapioca → Cowpea → Maize → Lentil
+Tapioca → Green Gram → Mustard → Maize
+Tapioca → Cowpea → Maize → Chickpea
+Sweet Potato → Cowpea → Sorghum → Cowpea
+Sweet Potato → Green Gram → Rice → Wheat
+Sweet Potato → Green Gram → Rice → Pulses
+Sweet Potato → Green Gram → Rice → Chickpea
+Sweet Potato → Green Gram → Rice → Mustard
+Yam → Green Gram → Wheat → Sesame
+Yam → Cowpea → Sorghum → Red Gram
+Yam → Green Gram → Mustard → Maize
+Yam → Cowpea → Maize → Peas
+Yam → Cowpea → Maize → Lentil
+Elephant Foot Yam → Green Gram → Wheat → Millet
+Elephant Foot Yam → Cowpea → Maize → Lentil
+Elephant Foot Yam → Green Gram → Rice → Pulses
+Elephant Foot Yam → Cowpea → Maize → Peas
+Elephant Foot Yam → Cowpea → Millets
+Colocasia → Cowpea → Sorghum → Cowpea
+Colocasia → Green Gram → Rice → Mustard
+Colocasia → Green Gram → Mustard → Moong
+Colocasia → Cowpea → Millets
+Colocasia → Cowpea → Millets
+Amaranth → Cowpea → Sorghum → Cowpea
+Amaranth → Cowpea → Millets
+Amaranth → Cowpea → Millets
+Amaranth → Cowpea → Sorghum → Chickpea
+Amaranth → Green Gram → Mustard → Peas
+Spinach → Cowpea → Millets
+Spinach → Green Gram → Mustard → Moong
+Spinach → Green Gram → Mustard → Maize
+Spinach → Cowpea → Sorghum → Black Gram
+Spinach → Green Gram → Rice → Pulses
+Fenugreek → Cowpea → Sorghum → Red Gram
+Fenugreek → Green Gram → Wheat → Moong
+Fenugreek → Cowpea → Millets
+Fenugreek → Green Gram → Rice → Pulses
+Fenugreek → Cowpea → Sorghum → Red Gram
+Coriander → Cowpea → Millets
+Coriander → Cowpea → Sorghum → Cowpea
+Coriander → Cowpea → Sorghum → Red Gram
+Coriander → Green Gram → Mustard → Moong
+Coriander → Cowpea → Maize → Legumes
+Cumin → Cowpea → Millets
+Cumin → Cowpea → Millets
+Cumin → Cowpea → Sorghum → Cowpea
+Cumin → Cowpea → Maize → Legumes
+Cumin → Green Gram → Rice → Mustard
+Fennel → Green Gram → Mustard → Moong
+Fennel → Cowpea → Millets
+Fennel → Green Gram → Mustard → Moong
+Fennel → Cowpea → Maize → Peas
+Fennel → Green Gram → Wheat → Moong
+Mustard Greens → Cowpea → Millets
+Mustard Greens → Green Gram → Wheat → Sesame
+Mustard Greens → Cowpea → Millets
+Mustard Greens → Green Gram → Wheat → Sesame
+Mustard Greens → Cowpea → Maize → Lentil
+Radish → Cowpea → Sorghum → Cowpea
+Radish → Cowpea → Millets
+Radish → Green Gram → Rice → Cowpea
+Radish → Green Gram → Rice → Mustard
+Radish → Green Gram → Wheat → Moong
+Carrot → Cowpea → Millets
+Carrot → Cowpea → Sorghum → Red Gram
+Carrot → Cowpea → Millets
+Carrot → Cowpea → Millets
+Carrot → Cowpea → Sorghum → Red Gram
+Beetroot → Cowpea → Sorghum → Cowpea
+Beetroot → Cowpea → Maize → Legumes
+Beetroot → Cowpea → Sorghum → Black Gram
+Beetroot → Green Gram → Rice → Chickpea
+Beetroot → Green Gram → Mustard → Peas
+Turnip → Cowpea → Maize → Chickpea
+Turnip → Cowpea → Maize → Peas
+Turnip → Cowpea → Sorghum → Chickpea
+Turnip → Cowpea → Sorghum → Black Gram
+Turnip → Cowpea → Sorghum → Chickpea
+Onion → Cowpea → Millets
+Onion → Cowpea → Sorghum → Red Gram
+Onion → Cowpea → Sorghum → Red Gram
+Onion → Cowpea → Maize → Chickpea
+Onion → Green Gram → Mustard → Peas
+Garlic → Green Gram → Wheat → Moong
+Garlic → Green Gram → Wheat → Moong
+Garlic → Green Gram → Rice → Cowpea
+Garlic → Green Gram → Rice → Wheat
+Garlic → Green Gram → Rice → Green Gram
+Tomato → Cowpea → Sorghum → Red Gram
+Tomato → Green Gram → Wheat → Millet
+Tomato → Green Gram → Rice → Chickpea
+Tomato → Cowpea → Maize → Mustard
+Tomato → Green Gram → Rice → Green Gram
+Green Gram → Rice → Wheat → Millet
+Green Gram → Rice → Chickpea → Sorghum
+Green Gram → Mustard → Peas
+Green Gram → Mustard → Maize → Legumes
+Green Gram → Wheat → Sesame → Chickpea
+Black Gram → Chickpea → Maize → Lentil
+Black Gram → Wheat → Sesame → Chickpea
+Black Gram → Mustard → Moong → Rice
+Black Gram → Mustard → Moong → Mustard
+Black Gram → Barley → Legumes
+Cowpea → Millets
+Cowpea → Millets
+Cowpea → Maize → Chickpea → Sorghum
+Cowpea → Millets
+Cowpea → Millets
+Pigeon Pea → Barley → Legumes
+Pigeon Pea → Wheat → Rice → Pulses
+Pigeon Pea → Barley → Legumes
+Pigeon Pea → Mustard → Maize → Mustard
+Pigeon Pea → Mustard → Peas
+Horse Gram → Maize → Peas
+Horse Gram → Maize → Mustard → Peas
+Horse Gram → Millets
+Horse Gram → Millets
+Horse Gram → Millets
+Field Pea → Sesame → Barley → Legumes
+Field Pea → Maize → Peas
+Field Pea → Millet
+Field Pea → Maize → Peas
+Field Pea → Sesame → Wheat → Sesame
+Rice → Cowpea → Maize
+Rice → Moong → Mustard → Maize
+Ragi → Moong → Mustard → Chickpea
+Maize → Moong → Ragi → Mustard
+Sorghum → Groundnut → Moong → Barley
+Ragi → Green Gram → Mustard → Rice
+Wheat → Green Gram → Rice → Chickpea
